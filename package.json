@@ -1,0 +1,24 @@
+{
+  "name": "js-intro",
+  "version": "1.0.0",
+  "description": "Introduction to JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joykahugu/JS-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/joykahugu/JS-intro/issues"
+  },
+  "homepage": "https://github.com/joykahugu/JS-intro#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
